@@ -11,7 +11,7 @@ namespace escuela
             this.Nombre = nombre;
         }
         public string Nombre { get; set; }
-        public IList<asignatura> Asignaturas { get; set; }
+        
         
     }
 }
